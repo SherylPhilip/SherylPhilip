@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SherylPhilip
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Machine Learning
+- 👀 I’m interested in  the field of Data Science
+- 🌱 Experienced Data Aanalyst
 - 📫 How to reach me https://www.linkedin.com/in/sherylphilip1811/
 
 <!---
