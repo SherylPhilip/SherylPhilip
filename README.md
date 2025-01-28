@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @SherylPhilip
-- 👀 I’m interested in  the field of Data Science
-- 🌱 Experienced Data Aanalyst
-- 📫 How to reach me https://www.linkedin.com/in/sherylphilip1811/
+👋 Hi, I'm [Sheryl Philip Kurien]!
+🎓 Master of Commerce (Information Systems & Technology) with a specialization in Data Analytics & Visualization.
+💻 Data Analyst | Business Analyst with experience in fintech, machine learning, and data engineering.
+🎯 Passionate about transforming data into actionable insights and visual stories.
 
 <!---
 SherylPhilip/SherylPhilip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
